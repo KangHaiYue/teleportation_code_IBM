@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Last Updated on 7 Feburary, 2024
-@author: Haiyue Kang
+Last Updated on 29 April, 2024
+@author:
+Haiyue Kang, John F. Kam
 """
 
 # Standard libraries
